@@ -1,0 +1,4 @@
+JIRA/
+*.war
+ApplicationData/
+atlassian-plugin-sdk-8.0.7/
